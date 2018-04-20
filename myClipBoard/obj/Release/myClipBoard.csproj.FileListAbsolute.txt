@@ -1,0 +1,10 @@
+E:\MyWorks\Programming\Csharp\Exercise\Project 2\myClipBoard\myClipBoard\myClipBoard\bin\Release\myClipBoard.exe.config
+E:\MyWorks\Programming\Csharp\Exercise\Project 2\myClipBoard\myClipBoard\myClipBoard\bin\Release\myClipBoard.exe
+E:\MyWorks\Programming\Csharp\Exercise\Project 2\myClipBoard\myClipBoard\myClipBoard\bin\Release\myClipBoard.pdb
+E:\MyWorks\Programming\Csharp\Exercise\Project 2\myClipBoard\myClipBoard\myClipBoard\obj\Release\myClipBoard.Form1.resources
+E:\MyWorks\Programming\Csharp\Exercise\Project 2\myClipBoard\myClipBoard\myClipBoard\obj\Release\myClipBoard.Properties.Resources.resources
+E:\MyWorks\Programming\Csharp\Exercise\Project 2\myClipBoard\myClipBoard\myClipBoard\obj\Release\myClipBoard.csproj.GenerateResource.Cache
+E:\MyWorks\Programming\Csharp\Exercise\Project 2\myClipBoard\myClipBoard\myClipBoard\obj\Release\myClipBoard.exe
+E:\MyWorks\Programming\Csharp\Exercise\Project 2\myClipBoard\myClipBoard\myClipBoard\obj\Release\myClipBoard.pdb
+E:\MyWorks\Programming\Csharp\Exercise\Project 2\myClipBoard\myClipBoard\myClipBoard\obj\Release\myClipBoard.Form2.resources
+E:\MyWorks\Programming\Csharp\Exercise\Project 2\myClipBoard\myClipBoard\myClipBoard\obj\Release\myClipBoard.settingsForm.resources

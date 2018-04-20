@@ -1,0 +1,11 @@
+E:\MyWorks\Programming\Csharp\Exercise\Project 2\myClipBoard\myClipBoard\myClipBoard\bin\Debug\myClipBoard.exe.config
+E:\MyWorks\Programming\Csharp\Exercise\Project 2\myClipBoard\myClipBoard\myClipBoard\bin\Debug\myClipBoard.exe
+E:\MyWorks\Programming\Csharp\Exercise\Project 2\myClipBoard\myClipBoard\myClipBoard\bin\Debug\myClipBoard.pdb
+E:\MyWorks\Programming\Csharp\Exercise\Project 2\myClipBoard\myClipBoard\myClipBoard\obj\Debug\myClipBoard.csprojResolveAssemblyReference.cache
+E:\MyWorks\Programming\Csharp\Exercise\Project 2\myClipBoard\myClipBoard\myClipBoard\obj\Debug\myClipBoard.Form1.resources
+E:\MyWorks\Programming\Csharp\Exercise\Project 2\myClipBoard\myClipBoard\myClipBoard\obj\Debug\myClipBoard.Form2.resources
+E:\MyWorks\Programming\Csharp\Exercise\Project 2\myClipBoard\myClipBoard\myClipBoard\obj\Debug\myClipBoard.Properties.Resources.resources
+E:\MyWorks\Programming\Csharp\Exercise\Project 2\myClipBoard\myClipBoard\myClipBoard\obj\Debug\myClipBoard.csproj.GenerateResource.Cache
+E:\MyWorks\Programming\Csharp\Exercise\Project 2\myClipBoard\myClipBoard\myClipBoard\obj\Debug\myClipBoard.exe
+E:\MyWorks\Programming\Csharp\Exercise\Project 2\myClipBoard\myClipBoard\myClipBoard\obj\Debug\myClipBoard.pdb
+E:\MyWorks\Programming\Csharp\Exercise\Project 2\myClipBoard\myClipBoard\myClipBoard\obj\Debug\myClipBoard.settingsForm.resources
